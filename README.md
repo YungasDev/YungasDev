@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="WhatsApp%20Image%202025-12-22%20at%2022.40.55.jpeg" width="50%" alt="YungasDev Header" />
+<img src="WhatsApp%20Image%202025-12-22%20at%2022.40.55.jpeg" width="30%" height="20%" alt="YungasDev Header" />
 
 <br/>
 
